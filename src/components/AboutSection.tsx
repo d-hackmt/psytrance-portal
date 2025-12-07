@@ -28,7 +28,7 @@ const AboutSection = () => {
               {/* Image container */}
               <div className="relative glass-card p-2 neon-border">
                 <img
-                  src="https://images.unsplash.com/photo-1571266028243-d220c6a5486f?w=600&h=600&fit=crop&crop=faces"
+                  src="public\images\dmt.jpg"
                   alt="PSYWAVE DJ performing"
                   className="w-full h-full object-cover rounded-lg"
                 />
@@ -45,7 +45,7 @@ const AboutSection = () => {
               >
                 <Zap className="w-4 h-4 text-primary" />
                 <span className="text-sm font-display text-primary">
-                  10+ Years
+                  2+ Years
                 </span>
               </motion.div>
 
@@ -56,7 +56,7 @@ const AboutSection = () => {
               >
                 <Music className="w-4 h-4 text-secondary" />
                 <span className="text-sm font-display text-secondary">
-                  50+ Releases
+                  10+ Releases
                 </span>
               </motion.div>
             </div>
@@ -83,21 +83,21 @@ const AboutSection = () => {
 
             <div className="space-y-4 text-muted-foreground leading-relaxed">
               <p>
-                It all began in 2012, in a dimly lit basement rave where the
-                pulsating beats of psytrance first captured my soul. That night,
-                surrounded by flickering UV lights and hypnotic rhythms, I knew
-                I had found my calling.
+                It all began in 2020, It all started when I heard Technical Hitch – Mama India.
+                One track. One moment. A new mission for this new music.
+                I began making Psytrance in secret during office hours —
+                until i built my own setup and never looked back.
               </p>
               <p>
                 What started as obsessive bedroom productions evolved into a
-                sonic journey spanning continents. From intimate forest parties
-                to massive festival stages, I've dedicated my life to crafting
+                mad journey. From intimate forest parties
+                to private gigs , I've dedicated my life to crafting
                 soundscapes that transport listeners to otherworldly dimensions.
               </p>
               <p>
                 My sound blends the raw energy of{" "}
-                <span className="text-primary">full-on psytrance</span> with
-                intricate <span className="text-secondary">progressive</span>{" "}
+                <span className="text-primary">full-on hitechy psytrance</span> with
+                intricate <span className="text-secondary">experimental</span>{" "}
                 elements, creating a unique fusion that resonates with both the
                 underground and mainstream psychedelic community.
               </p>
@@ -106,9 +106,9 @@ const AboutSection = () => {
             {/* Stats */}
             <div className="grid grid-cols-3 gap-6 mt-10">
               {[
-                { value: "150+", label: "Live Sets" },
-                { value: "25+", label: "Countries" },
-                { value: "1M+", label: "Streams" },
+                { value: "20+", label: "Private Live Sets" },
+                { value: "5+", label: "States" },
+                { value: "0", label: "Streams" },
               ].map((stat, index) => (
                 <motion.div
                   key={stat.label}

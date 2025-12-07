@@ -17,51 +17,51 @@ interface Track {
 const tracks: Track[] = [
   {
     id: "1",
-    title: "Cosmic Odyssey",
-    artist: "PSYWAVE",
+    title: "RUSH ORBIT - Experimental Psytrance",
+    artist: "Chaotic Aliens",
     coverUrl: "https://images.unsplash.com/photo-1534796636912-3b95b3ab5986?w=400&h=400&fit=crop",
-    soundcloudUrl: "https://soundcloud.com",
+    soundcloudUrl: "https://on.soundcloud.com/qA3yXOsCdbAmklSjar",
     releaseYear: "2024",
   },
   {
     id: "2",
-    title: "Neural Pathways",
-    artist: "PSYWAVE",
+    title: "TJE LAPI MIXTAPE",
+    artist: "Chaotic Aliens",
     coverUrl: "https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=400&h=400&fit=crop",
-    soundcloudUrl: "https://soundcloud.com",
+    soundcloudUrl: "https://on.soundcloud.com/D8ycNzwVurYxVR8ZED",
     releaseYear: "2024",
   },
   {
     id: "3",
     title: "Fractal Dreams",
-    artist: "PSYWAVE",
+    artist: "Chaotic Aliens",
     coverUrl: "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=400&h=400&fit=crop",
-    soundcloudUrl: "https://soundcloud.com",
+    soundcloudUrl: "https://soundcloud.com/divesh-jadhwani",
     isPrivate: true,
     releaseYear: "2024",
   },
   {
     id: "4",
-    title: "Hyperdrive",
-    artist: "PSYWAVE",
+    title: "WILD - Preview",
+    artist: "CHaotic Aliens , Neuroattack",
     coverUrl: "https://images.unsplash.com/photo-1419242902214-272b3f66ee7a?w=400&h=400&fit=crop",
-    soundcloudUrl: "https://soundcloud.com",
+    soundcloudUrl: "https://on.soundcloud.com/srnPc6If2NtmWlqjP3",
     releaseYear: "2023",
   },
   {
     id: "5",
-    title: "Quantum Leap",
-    artist: "PSYWAVE",
+    title: "Trojan Horse - Preview",
+    artist: "Chaotic Aliens",
     coverUrl: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=400&h=400&fit=crop",
-    soundcloudUrl: "https://soundcloud.com",
+    soundcloudUrl: "https://soundcloud.com/divesh-jadhwani/trojan-horse-preview",
     releaseYear: "2023",
   },
   {
     id: "6",
     title: "Unreleased Project",
-    artist: "PSYWAVE",
+    artist: "Chaotic Aliens",
     coverUrl: "https://images.unsplash.com/photo-1506318137071-a8e063b4bec0?w=400&h=400&fit=crop",
-    soundcloudUrl: "https://soundcloud.com",
+    soundcloudUrl: "https://soundcloud.com/divesh-jadhwani",
     isPrivate: true,
     releaseYear: "2024",
   },
@@ -185,7 +185,7 @@ const MusicSection = () => {
         >
           <Button variant="outline" size="lg" asChild>
             <a
-              href="https://soundcloud.com"
+              href="https://soundcloud.com/divesh-jadhwani"
               target="_blank"
               rel="noopener noreferrer"
             >

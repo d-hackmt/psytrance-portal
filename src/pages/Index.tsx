@@ -11,7 +11,7 @@ const Index = () => {
   return (
     <>
       <Helmet>
-        <title>PSYWAVE | Psytrance DJ & Producerrr</title>
+        <title>PSYWAVE | Psytrance DJ & Producerr</title>
         <meta
           name="description"
           content="PSYWAVE - Psytrance DJ & Producer crafting hypnotic soundscapes. Explore my music releases, book a set, and join the cosmic journey."

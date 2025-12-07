@@ -40,7 +40,7 @@ const Navbar = () => {
             href="#home"
             className="font-display text-xl font-bold text-primary neon-text tracking-wider"
           >
-            PSYWAVE
+            CHAOTIC ALIENS
           </a>
 
           {/* Desktop Navigation */}

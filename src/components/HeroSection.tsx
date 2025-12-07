@@ -55,7 +55,7 @@ const HeroSection = () => {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="font-display text-5xl md:text-7xl lg:text-8xl font-black mb-6 tracking-wider"
           >
-            <span className="gradient-text">PSYWAVE</span>
+            <span className="gradient-text">CHAOTIC ALIENS</span>
           </motion.h1>
 
           {/* Tagline */}
