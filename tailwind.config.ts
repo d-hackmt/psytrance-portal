@@ -139,7 +139,7 @@ export default {
   					transform: 'scale(1.02)'
   				}
   			},
-  			'float': {
+  			float: {
   				'0%, 100%': {
   					transform: 'translateY(0)'
   				},
@@ -147,7 +147,7 @@ export default {
   					transform: 'translateY(-10px)'
   				}
   			},
-  			'shimmer': {
+  			shimmer: {
   				'0%': {
   					backgroundPosition: '-200% 0'
   				},
@@ -168,8 +168,8 @@ export default {
   			'accordion-down': 'accordion-down 0.2s ease-out',
   			'accordion-up': 'accordion-up 0.2s ease-out',
   			'glow-pulse': 'glow-pulse 2s ease-in-out infinite',
-  			'float': 'float 3s ease-in-out infinite',
-  			'shimmer': 'shimmer 2s linear infinite',
+  			float: 'float 3s ease-in-out infinite',
+  			shimmer: 'shimmer 2s linear infinite',
   			'spin-slow': 'spin-slow 20s linear infinite'
   		},
   		backgroundImage: {
