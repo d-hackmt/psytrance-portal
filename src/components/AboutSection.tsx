@@ -28,7 +28,7 @@ const AboutSection = () => {
               {/* Image container */}
               <div className="relative glass-card p-2 neon-border">
                 <img
-                  src="public\images\dmt.jpg"
+                  src="/images/dmt.jpg"
                   alt="PSYWAVE DJ performing"
                   className="w-full h-full object-cover rounded-lg"
                 />
